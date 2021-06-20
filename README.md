@@ -1,5 +1,5 @@
 # GardenHackathon
-## Bloom - Hanging Basket Flowers Identification App
+# Bloom - Hanging Basket Flowers Identification App
 A flower image classification program based on python and keras.
 
 This project has two parts, (i) training part and (ii) GUI part.
